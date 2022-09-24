@@ -13,7 +13,6 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @MapperScan("com.lzx.crm.dao")
 public class Starter extends SpringBootServletInitializer {
     public static void main(String[] args) {
-        System.out.println("lizixiang");
         SpringApplication.run(Starter.class);
     }
 
