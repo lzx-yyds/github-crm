@@ -14,6 +14,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class Starter extends SpringBootServletInitializer {
     public static void main(String[] args) {
         System.out.println("李子翔加油master！");
+        System.out.println("李子翔加油lzx！");
         SpringApplication.run(Starter.class);
     }
 
