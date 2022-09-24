@@ -18,6 +18,7 @@ public class Starter extends SpringBootServletInitializer {
         System.out.println("李子翔加油lzx2！");
         System.out.println("李子翔加油lzx3！");
         System.out.println("李子翔加油lzx4！");
+        System.out.println("李子翔加油gitee！");
         SpringApplication.run(Starter.class);
     }
 
